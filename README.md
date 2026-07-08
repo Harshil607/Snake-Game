@@ -128,11 +128,3 @@ Example:
 - Cross-platform support using SDL or SFML
 
 ---
-
-## 👨‍💻 Author
-
-**Your Name**
-
-GitHub: https://github.com/yourusername
-
-LinkedIn: https://linkedin.com/in/yourusername
